@@ -1,0 +1,6 @@
+[submodule "tortoise-tts"]
+	path = modules/tortoise-tts
+	url = https://git.ecker.tech/mrq/tortoise-tts
+[submodule "dlas"]
+	path = modules/dlas
+	url = https://git.ecker.tech/mrq/DL-Art-School
