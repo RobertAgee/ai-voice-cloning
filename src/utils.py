@@ -3041,7 +3041,7 @@ def setup_args():
 	global args
 
 	default_arguments = {
-		'share': False,
+		'share': True,
 		'listen': None,
 		'check-for-updates': False,
 		'models-from-local-only': False,
